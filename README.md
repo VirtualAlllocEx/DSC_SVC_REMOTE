@@ -13,7 +13,6 @@ This code example allows you to create a **malware.exe** sample that can be run 
 3. Start the respective service and retreive session in system context 
 
 **cmd>**
-
 ```
 sc start unquotedsvc
 ```
