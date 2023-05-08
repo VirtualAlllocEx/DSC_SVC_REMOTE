@@ -9,3 +9,11 @@ This code example allows you to create a **malware.exe** sample that can be run 
 
 ![image](https://user-images.githubusercontent.com/50073731/236862074-a8a46ee5-b97f-4a83-9e9d-e4b37d2e7ceb.png)
 ![image](https://user-images.githubusercontent.com/50073731/236862198-a3c5d566-9af1-4920-9860-7da461b8686f.png)
+
+3. Start the respective service and retreive session in system context 
+**cmd>**
+```
+sc start unquotedsvc
+```
+![image](https://user-images.githubusercontent.com/50073731/236866165-e061c6c0-2b47-41fc-a78a-edbcedc24719.png)
+
